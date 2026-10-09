@@ -86,6 +86,10 @@ The students' documentary thanks the students and teachers of the 1st EPAL of Vo
 
 [Website](https://ento.farm) · [Facebook](https://www.facebook.com/profile.php?id=61573938374364) · [Instagram](https://www.instagram.com/ento.farm/) · [TikTok](https://www.tiktok.com/@entofarmproject) · <entofarmproject@gmail.com>
 
-## 8. Funding
+## 8. Licence
+
+Unless stated otherwise, the materials in this repository are licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). You may share and adapt them, including commercially, as long as you give appropriate credit to the EntoFARM project and indicate changes. See [LICENSE](LICENSE).
+
+## 9. Funding
 
 Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Education and Culture Executive Agency (EACEA). Neither the European Union nor EACEA can be held responsible for them.
