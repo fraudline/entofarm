@@ -1,10 +1,19 @@
 <p align="center"><img src="assets/entofarm-logo.png" alt="EntoFARM logo" width="220"></p>
 
-# EntoFARM
+<h1 align="center">EntoFARM</h1>
 
-**Promoting Circular Economy Strategies through Open Source Insect Farm Technology among School Children**
+<p align="center"><b>Promoting Circular Economy Strategies through Open Source Insect Farm Technology among School Children</b></p>
 
-Erasmus+ KA210-SCH (Small-scale partnerships in school education) · Project no. `2024-2-EL01-KA210-SCH-000285053` · Website: <https://ento.farm>
+<p align="center">
+<a href="https://ento.farm">Website</a> ·
+<a href="https://app.lumi.education/run/yQM4UO">Student documentary</a> ·
+<a href="https://app.lumi.education/run/n-4zjN">Teacher videos</a> ·
+<a href="https://www.ento.farm/blog">News</a>
+</p>
+
+<p align="center"><img src="assets/co-funded-by-the-eu.png" alt="Co-funded by the European Union" width="260"></p>
+
+EntoFARM is an Erasmus+ project (KA210-SCH, small-scale partnerships in school education), project no. `2024-2-EL01-KA210-SCH-000285053`.
 
 ---
 
@@ -52,18 +61,31 @@ Each module combines lesson plans, waste-to-resource simulation activities, vide
 
 ## 5. Partners
 
-| Organisation | Role |
+EntoFARM brings together a company, two universities and four schools or education organisations in Greece and Bulgaria. Students and teachers from Greece, Bulgaria and North Macedonia took part.
+
+| Partner | Role |
 |---|---|
-| Fraud Line / INNOFY | Coordinator |
-| University of Thessaly | Partner |
-| University of Patras | Partner |
-| Inter-Edu | Partner |
-| 1st EPAL of Volos | Partner |
+| [Fraud Line / INNOFY](https://fraudline.gr/en/) | Project coordinator |
+| [University of Thessaly](https://www.uth.gr/en) | Partner |
+| [University of Patras, Department of Agriculture](https://agriculture.upatras.gr/) | Partner |
+| [Inter-Edu](https://www.4edu.online/) | Partner |
+| [1st EPAL of Volos](https://1epal-volou.blogspot.com/) | Partner (school) |
 | SPFO | Partner |
-| Professional School of Agriculture "Buzema" (Bulgaria) | Partner |
+| [Professional School of Agriculture "Buzema"](https://pg-drstamengrigorov.com/) (Bulgaria) | Partner (school) |
 
-## 6. Funding
+The students' documentary thanks the students and teachers of the 1st EPAL of Volos and the Vocational High School of Agriculture "BUZEMA".
 
-<img src="assets/co-funded-by-the-eu.png" alt="Co-funded by the European Union" width="260">
+## 6. News
+
+- **Jul 30** · [Lights, Camera, Action! The EntoFARM Student Documentary is Here!](https://www.ento.farm/blog) Students in Greece, Bulgaria and North Macedonia, with universities and expert organisations, show how small-scale insect farming turns organic waste into protein and natural fertiliser.
+- **Jun 5** · [Greek Teachers Strengthen Sustainability Education Skills through EntoFARM Webinar](https://www.ento.farm/blog) On 27 May 2026 teachers from across Greece joined an online capacity-building event on circular economy, sustainable agriculture and STEM teaching.
+- **May 14** · [EntoFARM Students' Visit to the University of Thessaly](https://www.ento.farm/blog)
+- **Apr 16** · [Why Agriculture is the Next Great STEM Career](https://www.ento.farm/blog)
+
+## 7. Follow and contact
+
+[Website](https://ento.farm) · [Facebook](https://www.facebook.com/profile.php?id=61573938374364) · [Instagram](https://www.instagram.com/ento.farm/) · [TikTok](https://www.tiktok.com/@entofarmproject) · <entofarmproject@gmail.com>
+
+## 8. Funding
 
 Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Education and Culture Executive Agency (EACEA). Neither the European Union nor EACEA can be held responsible for them.
