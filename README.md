@@ -15,6 +15,8 @@
 
 EntoFARM is an Erasmus+ project (KA210-SCH, small-scale partnerships in school education), project no. `2024-2-EL01-KA210-SCH-000285053`.
 
+> Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Education and Culture Executive Agency (EACEA). Neither the European Union nor EACEA can be held responsible for them.
+
 ---
 
 ## 1. What is EntoFARM?
@@ -39,8 +41,8 @@ The project is open source. All guides and teaching materials are free to use, a
 | **EntoFARM Guide: how to build your own insect farm** | A step-by-step manual for a modular, stackable farm for yellow mealworms. It keeps 25–30 °C and 60–70 % humidity with simple heaters and low-cost sensors. Insects are fed with wheat bran and vegetable waste, separated with metal meshes, and frass is collected as fertiliser. Tested in four units: a basic set-up costs about €50 and an advanced one about €100. Based on the entomology expertise of the Universities of Thessaly and Patras. | [`guides/`](guides) |
 | **EntoFARM Quick Guide** | A short practical reference to keep next to the classroom farm: materials list, tray assembly, target temperature and humidity, feeding and moisture routines, separating larvae, harvesting frass. | [`guides/`](guides) |
 | **Circular Economy Educational Toolkit** | Open-source lesson plans, interactive modules and multimedia content in five modules (see below). Piloted in schools in Greece, Bulgaria and North Macedonia and refined with teacher and student feedback. | [`toolkit/`](toolkit) |
-| **Capacity-building videos for teachers** | Five short instructional videos with downloadable handouts, developed from the project's teacher webinars. The webinars trained **135 teachers** across Greece, Bulgaria and North Macedonia (target: 100). Recordings were turned into videos to protect participants' privacy. | [Watch online](https://app.lumi.education/run/n-4zjN) · <https://www.ento.farm/file-share> |
-| **Students' documentary** | A youth-led film in which students planned, scripted, filmed and edited the story of their insect farms. Subtitled in English, Greek, Bulgarian and Macedonian; screened at school open days and at European Researchers' Night 2025 in Larissa, and available on YouTube. | [Watch online](https://app.lumi.education/run/yQM4UO) · <https://www.ento.farm/about-3> |
+| **Capacity-building videos for teachers** | Five short instructional videos with downloadable handouts, developed from the project's teacher webinars. The webinars trained **135 teachers** across Greece, Bulgaria and North Macedonia (target: 100). Recordings were turned into videos to protect participants' privacy. | [Watch online](https://app.lumi.education/run/n-4zjN) · [H5P / HTML downloads](https://github.com/fraudline/entofarm/releases/tag/v1.0) · <https://www.ento.farm/file-share> |
+| **Students' documentary** | A youth-led film in which students planned, scripted, filmed and edited the story of their insect farms. Subtitled in English, Greek, Bulgarian and Macedonian; screened at school open days and at European Researchers' Night 2025 in Larissa, and available on YouTube. | [Watch online](https://app.lumi.education/run/yQM4UO) · [H5P / HTML downloads](https://github.com/fraudline/entofarm/releases/tag/v1.0) · <https://www.ento.farm/about-3> |
 
 All guides and toolkit modules exist in **four languages: English (EN), Greek (EL), Bulgarian (BG) and Macedonian (MK)**.
 
