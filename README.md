@@ -45,32 +45,12 @@ Each module combines lesson plans, waste-to-resource simulation activities, vide
 4. Waste-to-Resource Conversion
 5. Implementing Circular Economy Practices in Daily Life
 
-## 4. How the project ran (work packages)
-
-1. **Project management** – coordination and partner meetings.
-2. **Design and development of EntoFARMs** – building and testing the farms and writing the Guide and Quick Guide.
-3. **Circular Economy Educational Toolkit development** – the five modules, with each partner contributing its expertise.
-4. **Pilot implementation of EntoFARMs** – farms and lessons tested in partner schools.
-5. **Students' documentary** – students film their own experience.
-6. **Capacity building (teachers' webinars)** – training teachers to use the farms and toolkit.
-7. **Students' visit to the university's facility** – students visit university labs and facilities.
-8. **Dissemination** – presentations, open days, conferences and fairs (for example at the University of Patras and Agrotica 2026), newsletters, flyers and the project website.
-
-## 5. Repository structure
-
-```
-assets/                 logo and EU funding emblem
-guides/                 EntoFARM Guide and Quick Guide (EN, EL, BG, MK)
-toolkit/{EN,EL,BG,MK}/  five educational modules per language
-```
-
-## 6. How to use these materials
+## 4. How to use these materials
 
 - **Teachers:** start with the Quick Guide, build a farm with the Guide, then use the toolkit modules in your own language.
 - **Students and enthusiasts:** the Guide lists a materials list and costs, so you can build a farm yourself.
-- **Translators and adapters:** the materials are meant to be reused and translated. Please credit the project.
 
-## 7. Partners
+## 5. Partners
 
 | Organisation | Role |
 |---|---|
@@ -82,16 +62,8 @@ toolkit/{EN,EL,BG,MK}/  five educational modules per language
 | SPFO | Partner |
 | Professional School of Agriculture "Buzema" (Bulgaria) | Partner |
 
-## 8. Funding
+## 6. Funding
 
 <img src="assets/co-funded-by-the-eu.png" alt="Co-funded by the European Union" width="260">
 
 Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Education and Culture Executive Agency (EACEA). Neither the European Union nor EACEA can be held responsible for them.
-
-## 9. Licence
-
-*To be confirmed by the project coordinator.*
-
-## 10. Contact
-
-Website: <https://ento.farm>
