@@ -43,8 +43,9 @@ The project is open source. All guides and teaching materials are free to use, a
 | **Circular Economy Educational Toolkit** | Open-source lesson plans, interactive modules and multimedia content in five modules (see below). Piloted in schools in Greece, Bulgaria and North Macedonia and refined with teacher and student feedback. | [`toolkit/`](toolkit) |
 | **Capacity-building videos for teachers** | Five short instructional videos with downloadable handouts, developed from the project's teacher webinars. The webinars trained **135 teachers** across Greece, Bulgaria and North Macedonia (target: 100). Recordings were turned into videos to protect participants' privacy. | [Watch online](https://app.lumi.education/run/n-4zjN) · [H5P / HTML downloads](https://github.com/fraudline/entofarm/releases/tag/v1.0) · <https://www.ento.farm/file-share> |
 | **Students' documentary** | A youth-led film in which students planned, scripted, filmed and edited the story of their insect farms. Subtitled in English, Greek, Bulgarian and Macedonian; screened at school open days and at European Researchers' Night 2025 in Larissa, and available on YouTube. | [Watch online](https://app.lumi.education/run/yQM4UO) · [H5P / HTML downloads](https://github.com/fraudline/entofarm/releases/tag/v1.0) · <https://www.ento.farm/about-3> |
+| **Promotional material** | A one-page project flyer and a short presentation introducing EntoFARM, in four languages (EN, EL, BG, MK). | [`promo/`](promo) |
 
-All guides and toolkit modules exist in **four languages: English (EN), Greek (EL), Bulgarian (BG) and Macedonian (MK)**.
+All guides, toolkit modules and promotional materials exist in **four languages: English (EN), Greek (EL), Bulgarian (BG) and Macedonian (MK)**.
 
 ### The five toolkit modules
 
