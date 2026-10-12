@@ -6,6 +6,7 @@
 
 <p align="center">
 <a href="https://ento.farm">Website</a> ·
+<a href="https://www.ento.farm/file-share">Learning Tools</a> ·
 <a href="https://app.lumi.education/run/yQM4UO">Student documentary</a> ·
 <a href="https://app.lumi.education/run/n-4zjN">Teacher videos</a> ·
 <a href="https://www.ento.farm/blog">News</a>
